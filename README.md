@@ -7,4 +7,4 @@ O LinuxOptimizeGUI simplifica a otimização do desempenho no Linux. Escolha ent
 git clone https://github.com/Johncaetan0/LinuxOptimizeGUI-
 
 
-Python3 LinuxOptimizeGUI.py
+python3 LinuxOptimizeGUI.py
