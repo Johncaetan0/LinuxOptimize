@@ -3,6 +3,9 @@ Este é um script intuitivo em Python para otimizar algumas configurações do s
 
 Ele oferece opções para desabilitar o Bluetooth, Avahi, animações do GNOME, limpar arquivos temporários e reabilitar configurações.
 
+![menu 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/9881e512-fc36-4bb0-b86b-2e39439e4ab0)   ![menu reabilitacao 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/1cbe1a8f-e5c0-440f-9b06-0cd8de3c9496)
+
+
 ## Requisitos
 
 - Python 3.x
@@ -47,7 +50,5 @@ Use este script por sua conta e risco. Certifique-se de entender o que cada opç
 
 
 
-![menu 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/93470cb5-478c-4e84-921f-c1a3a589fd1a)
-![menu reabilitacao 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/b31c6abe-898f-45ad-9a5b-b980ff9b055f)
 
 
