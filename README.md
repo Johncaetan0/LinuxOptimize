@@ -1,5 +1,5 @@
 # Linux Optimize GUI  Version 1.0
-Este é um script simples em Python para otimizar algumas configurações do sistema Linux.
+Este é um script intuitivo em Python para otimizar algumas configurações do sistema Linux com base Debian (até o momento).
 
 Ele oferece opções para desabilitar o Bluetooth, Avahi, animações do GNOME, limpar arquivos temporários e reabilitar configurações.
 
