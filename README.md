@@ -1,4 +1,4 @@
-# Linux Optimize GUI-
+# Linux Optimize GUI  Version 1.0
 Este é um script simples em Python para otimizar algumas configurações do sistema Linux.
 
 Ele oferece opções para desabilitar o Bluetooth, Avahi, animações do GNOME, limpar arquivos temporários e reabilitar configurações.
