@@ -46,3 +46,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 Use este script por sua conta e risco. Certifique-se de entender o que cada opção faz antes de executá-la.
 
 
+
+![menu 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/93470cb5-478c-4e84-921f-c1a3a589fd1a)
+![menu reabilitacao 1 0](https://github.com/Johncaetan0/LinuxOptimizeGUI/assets/125829526/b31c6abe-898f-45ad-9a5b-b980ff9b055f)
+
+
